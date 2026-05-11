@@ -1,0 +1,15 @@
+{
+  "name": "GPS - SeeedStudio (Grove)",
+  "version": "0.0",
+  "description": "GPS von SeeedStudio (Grove) - MGPossible",
+  "dependencies": {},
+  "files": [
+    "main.ts"
+  ],
+  "targetVersions": {
+    "branch": "v0.0.0",
+    "tag": "v0.0.0",
+    "target": "calliopemini"
+  },
+  "preferredEditor": "tsprj"
+}
