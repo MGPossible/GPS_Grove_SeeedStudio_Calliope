@@ -1,8 +1,10 @@
+// main.ts
+
 /**
  * Air530 GNSS / GPS Erweiterung
  */
 
-//% color=#0fbc11 icon="\uf0ac" block="GPS Air530 by MG"
+//% color=#8f3fd1 icon="\uf20e" block="GPS Air530 by MG"
 //% groups=['Grundfunktionen', 'Erweiterungen']
 namespace air530 {
 
