@@ -95,7 +95,7 @@ namespace air530 {
      * Startet das Air530 GPS Modul.
      */
     //% group="Grundfunktionen"
-    //% block="GPS starten RX %rx TX %tx"
+    //% block="Initialisiere GPS-Modul RX %rx TX %tx"
     //% block.tooltip="Initialisiert das Air530 GPS Modul."
     //% rx.defl=SerialPin.C16
     //% tx.defl=SerialPin.C17
