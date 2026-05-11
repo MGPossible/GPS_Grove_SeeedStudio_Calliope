@@ -57,7 +57,7 @@ namespace air530 {
     }
 
     export enum InfoTyp {
-        //% block="Verwendete Satelliten"
+        //% block="Verwendete Satelliten (Anzahl)"
         Satelliten,
 
         //% block="Signalqualität"
